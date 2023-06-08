@@ -1,0 +1,9 @@
+.event-calendar{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+
+	.add-btn{
+		margin-top: .5em;
+	}
+}

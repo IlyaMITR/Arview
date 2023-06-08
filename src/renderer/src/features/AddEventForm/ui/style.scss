@@ -1,0 +1,15 @@
+.add-event-form{
+	width: 50%;
+	margin-inline: auto;
+
+	.buttons{
+		margin-top: 1em;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+
+		button:first-child{
+			margin-right: 1em;
+		}
+	}
+}
